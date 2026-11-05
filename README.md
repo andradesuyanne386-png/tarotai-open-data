@@ -4,6 +4,10 @@
 
 [Visit the TarotAI website](https://tarotai.art/)
 
+## Dataset mirror
+
+[Browse the dataset on Hugging Face](https://huggingface.co/datasets/HenryZheng99/tarotai-open-tarot-kit).
+
 ## Files
 
 - `data/cards.json`: canonical card records (22 Major / 56 Minor Arcana).

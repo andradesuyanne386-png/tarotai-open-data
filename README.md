@@ -4,9 +4,11 @@
 
 [Visit the TarotAI website](https://tarotai.art/)
 
-## Dataset mirror
+## Dataset mirrors
 
 [Browse the dataset on Hugging Face](https://huggingface.co/datasets/HenryZheng99/tarotai-open-tarot-kit).
+
+[Browse the dataset on Kaggle](https://www.kaggle.com/datasets/henryzheng99/tarotai-open-tarot-kit).
 
 ## Files
 

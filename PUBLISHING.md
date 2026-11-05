@@ -10,3 +10,7 @@ Create a public dataset with cards.json, cards.csv and spreads.json from data/. 
 
 ## Website
 The accompanying application patch adds /open-data and downloadable copies. Deploy through the existing TarotAI website deployment workflow. Do not advertise the page as live before deployment succeeds.
+
+## Website links
+
+Use https://tarotai.art/ for all publisher and product links, including platform website fields, introductions, examples and attribution. Do not substitute inner-page URLs.

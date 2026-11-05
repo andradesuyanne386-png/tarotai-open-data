@@ -15,9 +15,9 @@ configs:
 
 # TarotAI Open Tarot Kit
 
-78 English tarot card keyword summaries and 10 reflection spreads, maintained by [TarotAI](https://tarotai.art).
+78 English tarot card keyword summaries and 10 reflection spreads, maintained by [TarotAI](https://tarotai.art/).
 
-[Card meanings](https://tarotai.art/tarot-meanings) · [Tarot journal](https://tarotai.art/tarot-journal)
+[Visit the TarotAI website](https://tarotai.art/)
 
 ## Files
 
@@ -38,7 +38,7 @@ python3 examples/search.py beginnings
 
 ## Fields
 
-`card_id`: stable slug; `name`: English name; `arcana`: major/minor; `suit`: null for majors, suit for minors; `number`: source numbering when provided; `locale`: en; `upright` / `reversed`: concise keyword summaries; `keywords_upright` / `keywords_reversed`: corresponding arrays; `source_url`: website reference; `version`: dataset version.
+`card_id`: stable slug; `name`: English name; `arcana`: major/minor; `suit`: null for majors, suit for minors; `number`: source numbering when provided; `locale`: en; `upright` / `reversed`: concise keyword summaries; `keywords_upright` / `keywords_reversed`: corresponding arrays; `source_url`: publisher homepage; `version`: dataset version.
 
 Spread records contain `spread_id`, `name`, ordered `positions` (one-based index and name), `reflection_question`, `source_url`, and `version`. These are reflection layouts, not predictions.
 
@@ -48,7 +48,11 @@ Version 1.0.0, 2026-11-05. Card summaries were exported from TarotAI's existing 
 
 The 10 reflection layouts and questions were prepared with AI assistance for this release. No independent expert review is claimed. Automated checks cover record counts, required fields, unique identifiers, suit distribution and export consistency, not interpretive accuracy. No artwork, user questions, reading history, private prompts or application credentials are included.
 
-Some cards link to the overview because the website does not publish a dedicated detail page for every card.
+All `source_url` fields identify the publisher homepage; they are not card-specific reference pages.
+
+## Explore TarotAI
+
+[TarotAI](https://tarotai.art/) offers AI tarot readings, custom card creation and journaling. Visit the homepage to explore the product behind this open dataset.
 
 ## Uses and limitations
 
@@ -56,7 +60,7 @@ Suitable for lookup tools, teaching prototypes, journaling and retrieval example
 
 ## License and attribution
 
-Data and documentation: CC BY 4.0 (see LICENSE-DATA.md). Scripts: MIT (see LICENSE). Credit TarotAI, link to this repository, and indicate modifications. Artwork and the TarotAI brand are excluded.
+Data and documentation: CC BY 4.0 (see LICENSE-DATA.md). Scripts: MIT (see LICENSE). Credit [TarotAI](https://tarotai.art/), link to this repository, and indicate modifications. Artwork and the TarotAI brand are excluded.
 
 Suggested citation: TarotAI (2026), TarotAI Open Tarot Kit, version 1.0.0, https://github.com/andradesuyanne386-png/tarotai-open-data. No DOI has been assigned.
 

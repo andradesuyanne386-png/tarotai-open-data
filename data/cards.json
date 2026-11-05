@@ -1,0 +1,1716 @@
+[
+  {
+    "card_id": "the-fool",
+    "name": "The Fool",
+    "arcana": "major",
+    "suit": null,
+    "number": 0,
+    "locale": "en",
+    "upright": "new beginnings, openness to experience, spontaneity, freedom",
+    "reversed": "recklessness, hesitation, taking risks without considering consequences",
+    "keywords_upright": [
+      "new beginnings",
+      "openness to experience",
+      "spontaneity",
+      "freedom"
+    ],
+    "keywords_reversed": [
+      "recklessness",
+      "hesitation",
+      "taking risks without considering consequences"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-fool",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-magician",
+    "name": "The Magician",
+    "arcana": "major",
+    "suit": null,
+    "number": 1,
+    "locale": "en",
+    "upright": "resourcefulness, focused intention, skill, turning intention into action",
+    "reversed": "manipulation, poor planning, unused potential",
+    "keywords_upright": [
+      "resourcefulness",
+      "focused intention",
+      "skill",
+      "turning intention into action"
+    ],
+    "keywords_reversed": [
+      "manipulation",
+      "poor planning",
+      "unused potential"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-magician",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-high-priestess",
+    "name": "The High Priestess",
+    "arcana": "major",
+    "suit": null,
+    "number": 2,
+    "locale": "en",
+    "upright": "intuition, inner wisdom, receptivity, mystery",
+    "reversed": "ignoring intuition, hidden information, disconnection from oneself",
+    "keywords_upright": [
+      "intuition",
+      "inner wisdom",
+      "receptivity",
+      "mystery"
+    ],
+    "keywords_reversed": [
+      "ignoring intuition",
+      "hidden information",
+      "disconnection from oneself"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-high-priestess",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-empress",
+    "name": "The Empress",
+    "arcana": "major",
+    "suit": null,
+    "number": 3,
+    "locale": "en",
+    "upright": "nurturing care, creativity, abundance, growth",
+    "reversed": "blocked creativity, overdependence on others, neglecting one's own needs",
+    "keywords_upright": [
+      "nurturing care",
+      "creativity",
+      "abundance",
+      "growth"
+    ],
+    "keywords_reversed": [
+      "blocked creativity",
+      "overdependence on others",
+      "neglecting one's own needs"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-empress",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-emperor",
+    "name": "The Emperor",
+    "arcana": "major",
+    "suit": null,
+    "number": 4,
+    "locale": "en",
+    "upright": "authority, structure and order, stability, responsibility",
+    "reversed": "domination, rigidity, lack of discipline",
+    "keywords_upright": [
+      "authority",
+      "structure and order",
+      "stability",
+      "responsibility"
+    ],
+    "keywords_reversed": [
+      "domination",
+      "rigidity",
+      "lack of discipline"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-emperor",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-hierophant",
+    "name": "The Hierophant",
+    "arcana": "major",
+    "suit": null,
+    "number": 5,
+    "locale": "en",
+    "upright": "tradition, spiritual learning, shared beliefs, guidance",
+    "reversed": "questioning inherited traditions, personal beliefs, nonconformity",
+    "keywords_upright": [
+      "tradition",
+      "spiritual learning",
+      "shared beliefs",
+      "guidance"
+    ],
+    "keywords_reversed": [
+      "questioning inherited traditions",
+      "personal beliefs",
+      "nonconformity"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-hierophant",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-lovers",
+    "name": "The Lovers",
+    "arcana": "major",
+    "suit": null,
+    "number": 6,
+    "locale": "en",
+    "upright": "love, partnership, shared values, a choice guided by values",
+    "reversed": "disharmony, conflicting values, imbalance",
+    "keywords_upright": [
+      "love",
+      "partnership",
+      "shared values",
+      "a choice guided by values"
+    ],
+    "keywords_reversed": [
+      "disharmony",
+      "conflicting values",
+      "imbalance"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-lovers",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-chariot",
+    "name": "The Chariot",
+    "arcana": "major",
+    "suit": null,
+    "number": 7,
+    "locale": "en",
+    "upright": "willpower, clear direction, determination, progress",
+    "reversed": "loss of control, lack of direction, aggression",
+    "keywords_upright": [
+      "willpower",
+      "clear direction",
+      "determination",
+      "progress"
+    ],
+    "keywords_reversed": [
+      "loss of control",
+      "lack of direction",
+      "aggression"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-chariot",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "strength",
+    "name": "Strength",
+    "arcana": "major",
+    "suit": null,
+    "number": 8,
+    "locale": "en",
+    "upright": "inner strength, courage, compassion, self-control",
+    "reversed": "self-doubt, depleted energy, unrestrained emotion",
+    "keywords_upright": [
+      "inner strength",
+      "courage",
+      "compassion",
+      "self-control"
+    ],
+    "keywords_reversed": [
+      "self-doubt",
+      "depleted energy",
+      "unrestrained emotion"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/strength",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-hermit",
+    "name": "The Hermit",
+    "arcana": "major",
+    "suit": null,
+    "number": 9,
+    "locale": "en",
+    "upright": "introspection, chosen solitude, inner guidance",
+    "reversed": "isolation, loneliness, excessive withdrawal",
+    "keywords_upright": [
+      "introspection",
+      "chosen solitude",
+      "inner guidance"
+    ],
+    "keywords_reversed": [
+      "isolation",
+      "loneliness",
+      "excessive withdrawal"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-hermit",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wheel-of-fortune",
+    "name": "Wheel of Fortune",
+    "arcana": "major",
+    "suit": null,
+    "number": 10,
+    "locale": "en",
+    "upright": "a turning point, life cycles, changing fortunes",
+    "reversed": "setbacks, resistance to change, repeating unhelpful patterns",
+    "keywords_upright": [
+      "a turning point",
+      "life cycles",
+      "changing fortunes"
+    ],
+    "keywords_reversed": [
+      "setbacks",
+      "resistance to change",
+      "repeating unhelpful patterns"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/wheel-of-fortune",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "justice",
+    "name": "Justice",
+    "arcana": "major",
+    "suit": null,
+    "number": 11,
+    "locale": "en",
+    "upright": "fairness, truth, accountability, consequences of actions",
+    "reversed": "unfairness, bias, dishonesty, evading responsibility",
+    "keywords_upright": [
+      "fairness",
+      "truth",
+      "accountability",
+      "consequences of actions"
+    ],
+    "keywords_reversed": [
+      "unfairness",
+      "bias",
+      "dishonesty",
+      "evading responsibility"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/justice",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-hanged-man",
+    "name": "The Hanged Man",
+    "arcana": "major",
+    "suit": null,
+    "number": 12,
+    "locale": "en",
+    "upright": "a deliberate pause, letting go of control, a new perspective, acceptance",
+    "reversed": "stalling, resistance, indecision",
+    "keywords_upright": [
+      "a deliberate pause",
+      "letting go of control",
+      "a new perspective",
+      "acceptance"
+    ],
+    "keywords_reversed": [
+      "stalling",
+      "resistance",
+      "indecision"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-hanged-man",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "death",
+    "name": "Death",
+    "arcana": "major",
+    "suit": null,
+    "number": 13,
+    "locale": "en",
+    "upright": "the ending of a phase, transformation, transition to a new phase, renewal",
+    "reversed": "resistance to change, stagnation, clinging to the past",
+    "keywords_upright": [
+      "the ending of a phase",
+      "transformation",
+      "transition to a new phase",
+      "renewal"
+    ],
+    "keywords_reversed": [
+      "resistance to change",
+      "stagnation",
+      "clinging to the past"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/death",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "temperance",
+    "name": "Temperance",
+    "arcana": "major",
+    "suit": null,
+    "number": 14,
+    "locale": "en",
+    "upright": "balance, moderation, patience, integration",
+    "reversed": "imbalance, excess, impatience",
+    "keywords_upright": [
+      "balance",
+      "moderation",
+      "patience",
+      "integration"
+    ],
+    "keywords_reversed": [
+      "imbalance",
+      "excess",
+      "impatience"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-temperance",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-devil",
+    "name": "The Devil",
+    "arcana": "major",
+    "suit": null,
+    "number": 15,
+    "locale": "en",
+    "upright": "unhealthy attachment, compulsive patterns, restriction, fixation on material gratification",
+    "reversed": "breaking harmful patterns, regaining the ability to choose, releasing unhealthy attachments",
+    "keywords_upright": [
+      "unhealthy attachment",
+      "compulsive patterns",
+      "restriction",
+      "fixation on material gratification"
+    ],
+    "keywords_reversed": [
+      "breaking harmful patterns",
+      "regaining the ability to choose",
+      "releasing unhealthy attachments"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-devil",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-tower",
+    "name": "The Tower",
+    "arcana": "major",
+    "suit": null,
+    "number": 16,
+    "locale": "en",
+    "upright": "sudden upheaval, a revealing insight, collapse of false assumptions",
+    "reversed": "resistance to change, avoiding a necessary confrontation, a disruption of lesser intensity",
+    "keywords_upright": [
+      "sudden upheaval",
+      "a revealing insight",
+      "collapse of false assumptions"
+    ],
+    "keywords_reversed": [
+      "resistance to change",
+      "avoiding a necessary confrontation",
+      "a disruption of lesser intensity"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-tower",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-star",
+    "name": "The Star",
+    "arcana": "major",
+    "suit": null,
+    "number": 17,
+    "locale": "en",
+    "upright": "hope, renewal, trust, inspiration",
+    "reversed": "discouragement, loss of faith, disconnection from oneself",
+    "keywords_upright": [
+      "hope",
+      "renewal",
+      "trust",
+      "inspiration"
+    ],
+    "keywords_reversed": [
+      "discouragement",
+      "loss of faith",
+      "disconnection from oneself"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-star",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-moon",
+    "name": "The Moon",
+    "arcana": "major",
+    "suit": null,
+    "number": 18,
+    "locale": "en",
+    "upright": "uncertainty, illusion, subconscious influences, intuition",
+    "reversed": "gradually emerging clarity, lingering confusion, repressed feelings",
+    "keywords_upright": [
+      "uncertainty",
+      "illusion",
+      "subconscious influences",
+      "intuition"
+    ],
+    "keywords_reversed": [
+      "gradually emerging clarity",
+      "lingering confusion",
+      "repressed feelings"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-moon",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-sun",
+    "name": "The Sun",
+    "arcana": "major",
+    "suit": null,
+    "number": 19,
+    "locale": "en",
+    "upright": "joy, vitality, self-confidence, success",
+    "reversed": "difficulty feeling joy, temporary setbacks, overconfidence",
+    "keywords_upright": [
+      "joy",
+      "vitality",
+      "self-confidence",
+      "success"
+    ],
+    "keywords_reversed": [
+      "difficulty feeling joy",
+      "temporary setbacks",
+      "overconfidence"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-sun",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "judgement",
+    "name": "Judgement",
+    "arcana": "major",
+    "suit": null,
+    "number": 20,
+    "locale": "en",
+    "upright": "honest self-reflection, awakening, an inner calling, renewal",
+    "reversed": "self-doubt, harsh self-judgement, ignoring an inner calling",
+    "keywords_upright": [
+      "honest self-reflection",
+      "awakening",
+      "an inner calling",
+      "renewal"
+    ],
+    "keywords_reversed": [
+      "self-doubt",
+      "harsh self-judgement",
+      "ignoring an inner calling"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/judgement",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "the-world",
+    "name": "The World",
+    "arcana": "major",
+    "suit": null,
+    "number": 21,
+    "locale": "en",
+    "upright": "completion, integration, fulfilment, travel",
+    "reversed": "unfinished matters, lack of closure, delays",
+    "keywords_upright": [
+      "completion",
+      "integration",
+      "fulfilment",
+      "travel"
+    ],
+    "keywords_reversed": [
+      "unfinished matters",
+      "lack of closure",
+      "delays"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings/the-world",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-ace",
+    "name": "Ace of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "inspiration, initiative, creative potential",
+    "reversed": "blocked creativity, lack of direction, a delayed start",
+    "keywords_upright": [
+      "inspiration",
+      "initiative",
+      "creative potential"
+    ],
+    "keywords_reversed": [
+      "blocked creativity",
+      "lack of direction",
+      "a delayed start"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-two",
+    "name": "Two of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "planning, choosing a direction, a vision for the future",
+    "reversed": "fear of the unknown, poor planning, hesitation",
+    "keywords_upright": [
+      "planning",
+      "choosing a direction",
+      "a vision for the future"
+    ],
+    "keywords_reversed": [
+      "fear of the unknown",
+      "poor planning",
+      "hesitation"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-three",
+    "name": "Three of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "expansion, foresight, exploration, progress",
+    "reversed": "delays, limited foresight, setbacks",
+    "keywords_upright": [
+      "expansion",
+      "foresight",
+      "exploration",
+      "progress"
+    ],
+    "keywords_reversed": [
+      "delays",
+      "limited foresight",
+      "setbacks"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-four",
+    "name": "Four of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "celebration, community, harmony, homecoming",
+    "reversed": "tension at home, lack of support, delayed celebration",
+    "keywords_upright": [
+      "celebration",
+      "community",
+      "harmony",
+      "homecoming"
+    ],
+    "keywords_reversed": [
+      "tension at home",
+      "lack of support",
+      "delayed celebration"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-five",
+    "name": "Five of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "competition, disagreement, friction",
+    "reversed": "avoidance of conflict, inner conflict, easing tension",
+    "keywords_upright": [
+      "competition",
+      "disagreement",
+      "friction"
+    ],
+    "keywords_reversed": [
+      "avoidance of conflict",
+      "inner conflict",
+      "easing tension"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-six",
+    "name": "Six of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "achievement, recognition from others, self-confidence",
+    "reversed": "lack of recognition, wounded pride, self-doubt",
+    "keywords_upright": [
+      "achievement",
+      "recognition from others",
+      "self-confidence"
+    ],
+    "keywords_reversed": [
+      "lack of recognition",
+      "wounded pride",
+      "self-doubt"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-seven",
+    "name": "Seven of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "standing one's ground, courage, personal boundaries, perseverance",
+    "reversed": "feeling overwhelmed, giving up, excessive defensiveness",
+    "keywords_upright": [
+      "standing one's ground",
+      "courage",
+      "personal boundaries",
+      "perseverance"
+    ],
+    "keywords_reversed": [
+      "feeling overwhelmed",
+      "giving up",
+      "excessive defensiveness"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-eight",
+    "name": "Eight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "forward momentum, rapid developments, communication, travel",
+    "reversed": "delays, frustration, miscommunication",
+    "keywords_upright": [
+      "forward momentum",
+      "rapid developments",
+      "communication",
+      "travel"
+    ],
+    "keywords_reversed": [
+      "delays",
+      "frustration",
+      "miscommunication"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-nine",
+    "name": "Nine of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "resilience, watchfulness after difficulty, perseverance, personal boundaries",
+    "reversed": "exhaustion, excessive defensiveness, wavering resolve",
+    "keywords_upright": [
+      "resilience",
+      "watchfulness after difficulty",
+      "perseverance",
+      "personal boundaries"
+    ],
+    "keywords_reversed": [
+      "exhaustion",
+      "excessive defensiveness",
+      "wavering resolve"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-ten",
+    "name": "Ten of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "a heavy burden, responsibility, overwork",
+    "reversed": "trying to carry everything alone, difficulty sharing responsibilities, releasing burdens",
+    "keywords_upright": [
+      "a heavy burden",
+      "responsibility",
+      "overwork"
+    ],
+    "keywords_reversed": [
+      "trying to carry everything alone",
+      "difficulty sharing responsibilities",
+      "releasing burdens"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-page",
+    "name": "Page of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "curiosity, enthusiasm, exploration, creative potential",
+    "reversed": "lack of direction, procrastination, scattered effort",
+    "keywords_upright": [
+      "curiosity",
+      "enthusiasm",
+      "exploration",
+      "creative potential"
+    ],
+    "keywords_reversed": [
+      "lack of direction",
+      "procrastination",
+      "scattered effort"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-knight",
+    "name": "Knight of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "passion, adventure, bold action",
+    "reversed": "impulsiveness, haste, scattered effort",
+    "keywords_upright": [
+      "passion",
+      "adventure",
+      "bold action"
+    ],
+    "keywords_reversed": [
+      "impulsiveness",
+      "haste",
+      "scattered effort"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-queen",
+    "name": "Queen of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "self-confidence, warmth, independence, sociability",
+    "reversed": "self-doubt, jealousy, a need to rebuild confidence",
+    "keywords_upright": [
+      "self-confidence",
+      "warmth",
+      "independence",
+      "sociability"
+    ],
+    "keywords_reversed": [
+      "self-doubt",
+      "jealousy",
+      "a need to rebuild confidence"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "wands-king",
+    "name": "King of Wands",
+    "arcana": "minor",
+    "suit": "wands",
+    "locale": "en",
+    "upright": "leadership, a guiding vision, entrepreneurial initiative, decisiveness",
+    "reversed": "domination, impulsiveness, unrealistic expectations",
+    "keywords_upright": [
+      "leadership",
+      "a guiding vision",
+      "entrepreneurial initiative",
+      "decisiveness"
+    ],
+    "keywords_reversed": [
+      "domination",
+      "impulsiveness",
+      "unrealistic expectations"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-ace",
+    "name": "Ace of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "openness to feelings, love, compassion, creative potential",
+    "reversed": "repressed feelings, emotional depletion, a need for emotional self-care",
+    "keywords_upright": [
+      "openness to feelings",
+      "love",
+      "compassion",
+      "creative potential"
+    ],
+    "keywords_reversed": [
+      "repressed feelings",
+      "emotional depletion",
+      "a need for emotional self-care"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-two",
+    "name": "Two of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "mutual affection, partnership, reciprocity",
+    "reversed": "disharmony, imbalance, a strained or broken bond",
+    "keywords_upright": [
+      "mutual affection",
+      "partnership",
+      "reciprocity"
+    ],
+    "keywords_reversed": [
+      "disharmony",
+      "imbalance",
+      "a strained or broken bond"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-three",
+    "name": "Three of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "friendship, celebration, community, collaboration",
+    "reversed": "overindulgence, tension within a social circle, feeling excluded",
+    "keywords_upright": [
+      "friendship",
+      "celebration",
+      "community",
+      "collaboration"
+    ],
+    "keywords_reversed": [
+      "overindulgence",
+      "tension within a social circle",
+      "feeling excluded"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-four",
+    "name": "Four of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "apathy, contemplation, discontent, overlooked opportunities",
+    "reversed": "renewed interest in life, reassessment, emotional withdrawal",
+    "keywords_upright": [
+      "apathy",
+      "contemplation",
+      "discontent",
+      "overlooked opportunities"
+    ],
+    "keywords_reversed": [
+      "renewed interest in life",
+      "reassessment",
+      "emotional withdrawal"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-five",
+    "name": "Five of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "grief, regret, disappointment, dwelling on loss",
+    "reversed": "acceptance, forgiveness, emotional recovery",
+    "keywords_upright": [
+      "grief",
+      "regret",
+      "disappointment",
+      "dwelling on loss"
+    ],
+    "keywords_reversed": [
+      "acceptance",
+      "forgiveness",
+      "emotional recovery"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-six",
+    "name": "Six of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "nostalgia, childhood memories, kindness, innocence",
+    "reversed": "clinging to the past, idealising the past, growing beyond the past",
+    "keywords_upright": [
+      "nostalgia",
+      "childhood memories",
+      "kindness",
+      "innocence"
+    ],
+    "keywords_reversed": [
+      "clinging to the past",
+      "idealising the past",
+      "growing beyond the past"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-seven",
+    "name": "Seven of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "imagined possibilities, multiple choices, mistaking wishes for reality, illusion",
+    "reversed": "clarifying priorities, too many competing choices, confusion",
+    "keywords_upright": [
+      "imagined possibilities",
+      "multiple choices",
+      "mistaking wishes for reality",
+      "illusion"
+    ],
+    "keywords_reversed": [
+      "clarifying priorities",
+      "too many competing choices",
+      "confusion"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-eight",
+    "name": "Eight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "leaving an unfulfilling situation, disillusionment, a search for deeper meaning",
+    "reversed": "fear of leaving, indecision, aimless searching",
+    "keywords_upright": [
+      "leaving an unfulfilling situation",
+      "disillusionment",
+      "a search for deeper meaning"
+    ],
+    "keywords_reversed": [
+      "fear of leaving",
+      "indecision",
+      "aimless searching"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-nine",
+    "name": "Nine of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "contentment, pleasure, gratitude, fulfilment of a wish",
+    "reversed": "dissatisfaction, overindulgence, satisfaction that feels superficial",
+    "keywords_upright": [
+      "contentment",
+      "pleasure",
+      "gratitude",
+      "fulfilment of a wish"
+    ],
+    "keywords_reversed": [
+      "dissatisfaction",
+      "overindulgence",
+      "satisfaction that feels superficial"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-ten",
+    "name": "Ten of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "emotional fulfilment, family harmony, belonging, shared happiness",
+    "reversed": "tension at home, conflicting values, emotional distance",
+    "keywords_upright": [
+      "emotional fulfilment",
+      "family harmony",
+      "belonging",
+      "shared happiness"
+    ],
+    "keywords_reversed": [
+      "tension at home",
+      "conflicting values",
+      "emotional distance"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-page",
+    "name": "Page of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "emotional sensitivity, intuitive insight, imagination, openness to feelings",
+    "reversed": "emotional immaturity, self-doubt, blocked creativity",
+    "keywords_upright": [
+      "emotional sensitivity",
+      "intuitive insight",
+      "imagination",
+      "openness to feelings"
+    ],
+    "keywords_reversed": [
+      "emotional immaturity",
+      "self-doubt",
+      "blocked creativity"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-knight",
+    "name": "Knight of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "romance, charm, imagination, expression of feelings",
+    "reversed": "idealisation, mood swings, empty promises",
+    "keywords_upright": [
+      "romance",
+      "charm",
+      "imagination",
+      "expression of feelings"
+    ],
+    "keywords_reversed": [
+      "idealisation",
+      "mood swings",
+      "empty promises"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-queen",
+    "name": "Queen of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "compassion, intuition, emotional awareness, nurturing care",
+    "reversed": "emotional overwhelm, blurred emotional boundaries, neglecting one's own needs",
+    "keywords_upright": [
+      "compassion",
+      "intuition",
+      "emotional awareness",
+      "nurturing care"
+    ],
+    "keywords_reversed": [
+      "emotional overwhelm",
+      "blurred emotional boundaries",
+      "neglecting one's own needs"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "cups-king",
+    "name": "King of Cups",
+    "arcana": "minor",
+    "suit": "cups",
+    "locale": "en",
+    "upright": "emotional balance, compassion, tactful handling of relationships, emotional maturity",
+    "reversed": "emotional manipulation, mood swings, suppression of feelings",
+    "keywords_upright": [
+      "emotional balance",
+      "compassion",
+      "tactful handling of relationships",
+      "emotional maturity"
+    ],
+    "keywords_reversed": [
+      "emotional manipulation",
+      "mood swings",
+      "suppression of feelings"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-ace",
+    "name": "Ace of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "clarity of thought, mental breakthrough, truth, discernment",
+    "reversed": "clouded judgement, miscommunication, rethinking an idea",
+    "keywords_upright": [
+      "clarity of thought",
+      "mental breakthrough",
+      "truth",
+      "discernment"
+    ],
+    "keywords_reversed": [
+      "clouded judgement",
+      "miscommunication",
+      "rethinking an idea"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-two",
+    "name": "Two of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "a difficult choice, stalemate, weighing options",
+    "reversed": "indecision, information overload, confusion",
+    "keywords_upright": [
+      "a difficult choice",
+      "stalemate",
+      "weighing options"
+    ],
+    "keywords_reversed": [
+      "indecision",
+      "information overload",
+      "confusion"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-three",
+    "name": "Three of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "heartbreak, grief, separation, a painful truth",
+    "reversed": "emotional recovery, forgiveness, lingering emotional hurt",
+    "keywords_upright": [
+      "heartbreak",
+      "grief",
+      "separation",
+      "a painful truth"
+    ],
+    "keywords_reversed": [
+      "emotional recovery",
+      "forgiveness",
+      "lingering emotional hurt"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-four",
+    "name": "Four of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "rest, recuperation, contemplation, temporary retreat",
+    "reversed": "restlessness, exhaustion, returning to activity",
+    "keywords_upright": [
+      "rest",
+      "recuperation",
+      "contemplation",
+      "temporary retreat"
+    ],
+    "keywords_reversed": [
+      "restlessness",
+      "exhaustion",
+      "returning to activity"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-five",
+    "name": "Five of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "conflict, defeat, victory at too great a cost",
+    "reversed": "reconciliation, lingering resentment, making amends",
+    "keywords_upright": [
+      "conflict",
+      "defeat",
+      "victory at too great a cost"
+    ],
+    "keywords_reversed": [
+      "reconciliation",
+      "lingering resentment",
+      "making amends"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-six",
+    "name": "Six of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "transition to a new phase, moving on, moving away from difficulty",
+    "reversed": "resistance to change, unresolved issues, unresolved emotional burdens",
+    "keywords_upright": [
+      "transition to a new phase",
+      "moving on",
+      "moving away from difficulty"
+    ],
+    "keywords_reversed": [
+      "resistance to change",
+      "unresolved issues",
+      "unresolved emotional burdens"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-seven",
+    "name": "Seven of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "deception, secrecy, strategic action, evading responsibility",
+    "reversed": "self-deception, secrets coming to light, acknowledging the truth",
+    "keywords_upright": [
+      "deception",
+      "secrecy",
+      "strategic action",
+      "evading responsibility"
+    ],
+    "keywords_reversed": [
+      "self-deception",
+      "secrets coming to light",
+      "acknowledging the truth"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-eight",
+    "name": "Eight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "feeling trapped, self-limiting beliefs, a restricted view of the situation",
+    "reversed": "releasing self-imposed limits, a new perspective, regaining the ability to choose",
+    "keywords_upright": [
+      "feeling trapped",
+      "self-limiting beliefs",
+      "a restricted view of the situation"
+    ],
+    "keywords_reversed": [
+      "releasing self-imposed limits",
+      "a new perspective",
+      "regaining the ability to choose"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-nine",
+    "name": "Nine of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "anxiety, repetitive troubling thoughts, sleeplessness, emotional distress",
+    "reversed": "persistent worry, inner turmoil, seeking support",
+    "keywords_upright": [
+      "anxiety",
+      "repetitive troubling thoughts",
+      "sleeplessness",
+      "emotional distress"
+    ],
+    "keywords_reversed": [
+      "persistent worry",
+      "inner turmoil",
+      "seeking support"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-ten",
+    "name": "Ten of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "a painful ending, betrayal, exhaustion, loss",
+    "reversed": "recovery, resistance to an ending, rebuilding after a setback",
+    "keywords_upright": [
+      "a painful ending",
+      "betrayal",
+      "exhaustion",
+      "loss"
+    ],
+    "keywords_reversed": [
+      "recovery",
+      "resistance to an ending",
+      "rebuilding after a setback"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-page",
+    "name": "Page of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "curiosity, alertness, careful inquiry, new ideas",
+    "reversed": "gossip, hasty judgement, words without follow-through",
+    "keywords_upright": [
+      "curiosity",
+      "alertness",
+      "careful inquiry",
+      "new ideas"
+    ],
+    "keywords_reversed": [
+      "gossip",
+      "hasty judgement",
+      "words without follow-through"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-knight",
+    "name": "Knight of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "ambition, decisive action, quick thinking",
+    "reversed": "impulsiveness, aggression, disregard for consequences",
+    "keywords_upright": [
+      "ambition",
+      "decisive action",
+      "quick thinking"
+    ],
+    "keywords_reversed": [
+      "impulsiveness",
+      "aggression",
+      "disregard for consequences"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-queen",
+    "name": "Queen of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "independence, discernment, personal boundaries, direct communication",
+    "reversed": "harsh judgement of others, bitterness, emotional coldness",
+    "keywords_upright": [
+      "independence",
+      "discernment",
+      "personal boundaries",
+      "direct communication"
+    ],
+    "keywords_reversed": [
+      "harsh judgement of others",
+      "bitterness",
+      "emotional coldness"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "swords-king",
+    "name": "King of Swords",
+    "arcana": "minor",
+    "suit": "swords",
+    "locale": "en",
+    "upright": "reasoned thinking, authority, truth, principled judgement",
+    "reversed": "abuse of power, manipulation, rigidity",
+    "keywords_upright": [
+      "reasoned thinking",
+      "authority",
+      "truth",
+      "principled judgement"
+    ],
+    "keywords_reversed": [
+      "abuse of power",
+      "manipulation",
+      "rigidity"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-ace",
+    "name": "Ace of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "a practical or financial opportunity, potential for tangible growth, a new venture",
+    "reversed": "a missed opportunity, poor planning, unstable foundations",
+    "keywords_upright": [
+      "a practical or financial opportunity",
+      "potential for tangible growth",
+      "a new venture"
+    ],
+    "keywords_reversed": [
+      "a missed opportunity",
+      "poor planning",
+      "unstable foundations"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-two",
+    "name": "Two of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "balancing competing priorities, adaptability, management of time and resources",
+    "reversed": "taking on too many commitments, disorganisation, imbalance",
+    "keywords_upright": [
+      "balancing competing priorities",
+      "adaptability",
+      "management of time and resources"
+    ],
+    "keywords_reversed": [
+      "taking on too many commitments",
+      "disorganisation",
+      "imbalance"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-three",
+    "name": "Three of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "teamwork, craftsmanship, learning",
+    "reversed": "poor teamwork, conflicting priorities, lack of recognition",
+    "keywords_upright": [
+      "teamwork",
+      "craftsmanship",
+      "learning"
+    ],
+    "keywords_reversed": [
+      "poor teamwork",
+      "conflicting priorities",
+      "lack of recognition"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-four",
+    "name": "Four of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "conserving resources, a need for security, control",
+    "reversed": "possessiveness, fear of loss, letting go of control",
+    "keywords_upright": [
+      "conserving resources",
+      "a need for security",
+      "control"
+    ],
+    "keywords_reversed": [
+      "possessiveness",
+      "fear of loss",
+      "letting go of control"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-five",
+    "name": "Five of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "material hardship, insecurity, feeling excluded",
+    "reversed": "receiving support, recovery, renewed hope",
+    "keywords_upright": [
+      "material hardship",
+      "insecurity",
+      "feeling excluded"
+    ],
+    "keywords_reversed": [
+      "receiving support",
+      "recovery",
+      "renewed hope"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-six",
+    "name": "Six of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "generosity, sharing resources, giving and receiving support",
+    "reversed": "unequal giving and receiving, help with strings attached, unpaid obligations",
+    "keywords_upright": [
+      "generosity",
+      "sharing resources",
+      "giving and receiving support"
+    ],
+    "keywords_reversed": [
+      "unequal giving and receiving",
+      "help with strings attached",
+      "unpaid obligations"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-seven",
+    "name": "Seven of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "patience, sustained effort over time, assessing progress",
+    "reversed": "impatience, disappointing returns on effort, effort directed at the wrong goal",
+    "keywords_upright": [
+      "patience",
+      "sustained effort over time",
+      "assessing progress"
+    ],
+    "keywords_reversed": [
+      "impatience",
+      "disappointing returns on effort",
+      "effort directed at the wrong goal"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-eight",
+    "name": "Eight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "focused practice, craftsmanship, dedication to the work, developing skills",
+    "reversed": "perfectionism, careless work, effort directed at the wrong goal",
+    "keywords_upright": [
+      "focused practice",
+      "craftsmanship",
+      "dedication to the work",
+      "developing skills"
+    ],
+    "keywords_reversed": [
+      "perfectionism",
+      "careless work",
+      "effort directed at the wrong goal"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-nine",
+    "name": "Nine of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "self-sufficiency, material comfort, rewards of sustained effort",
+    "reversed": "financial dependence, overwork, living beyond one's means",
+    "keywords_upright": [
+      "self-sufficiency",
+      "material comfort",
+      "rewards of sustained effort"
+    ],
+    "keywords_reversed": [
+      "financial dependence",
+      "overwork",
+      "living beyond one's means"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-ten",
+    "name": "Ten of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "lasting security, shared family resources, legacy, established success",
+    "reversed": "financial instability, family disputes, an insecure family legacy",
+    "keywords_upright": [
+      "lasting security",
+      "shared family resources",
+      "legacy",
+      "established success"
+    ],
+    "keywords_reversed": [
+      "financial instability",
+      "family disputes",
+      "an insecure family legacy"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-page",
+    "name": "Page of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "practical learning, a practical or financial opportunity, diligence",
+    "reversed": "procrastination, lack of commitment, a missed opportunity",
+    "keywords_upright": [
+      "practical learning",
+      "a practical or financial opportunity",
+      "diligence"
+    ],
+    "keywords_reversed": [
+      "procrastination",
+      "lack of commitment",
+      "a missed opportunity"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-knight",
+    "name": "Knight of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "reliability, diligence, methodical progress, responsibility",
+    "reversed": "stagnation, rigidity, overwork",
+    "keywords_upright": [
+      "reliability",
+      "diligence",
+      "methodical progress",
+      "responsibility"
+    ],
+    "keywords_reversed": [
+      "stagnation",
+      "rigidity",
+      "overwork"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-queen",
+    "name": "Queen of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "practical care for others, resourcefulness, material security, nurturing care",
+    "reversed": "neglecting one's own needs, imbalance between work and home, material insecurity",
+    "keywords_upright": [
+      "practical care for others",
+      "resourcefulness",
+      "material security",
+      "nurturing care"
+    ],
+    "keywords_reversed": [
+      "neglecting one's own needs",
+      "imbalance between work and home",
+      "material insecurity"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  },
+  {
+    "card_id": "pentacles-king",
+    "name": "King of Pentacles",
+    "arcana": "minor",
+    "suit": "pentacles",
+    "locale": "en",
+    "upright": "responsible management of resources, material success, stability, leadership",
+    "reversed": "greed, poor management of resources, fixation on wealth and status",
+    "keywords_upright": [
+      "responsible management of resources",
+      "material success",
+      "stability",
+      "leadership"
+    ],
+    "keywords_reversed": [
+      "greed",
+      "poor management of resources",
+      "fixation on wealth and status"
+    ],
+    "source_url": "https://tarotai.art/tarot-meanings",
+    "version": "1.0.0"
+  }
+]

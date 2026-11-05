@@ -1,0 +1,228 @@
+[
+  {
+    "spread_id": "daily-reflection",
+    "name": "Daily reflection",
+    "positions": [
+      {
+        "index": 1,
+        "name": "Focus"
+      },
+      {
+        "index": 2,
+        "name": "Support"
+      },
+      {
+        "index": 3,
+        "name": "Small action"
+      }
+    ],
+    "reflection_question": "What can I approach with more awareness today?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  },
+  {
+    "spread_id": "past-present-next-step",
+    "name": "Past present next step",
+    "positions": [
+      {
+        "index": 1,
+        "name": "Past influence"
+      },
+      {
+        "index": 2,
+        "name": "Present situation"
+      },
+      {
+        "index": 3,
+        "name": "Possible next step"
+      }
+    ],
+    "reflection_question": "What past pattern can I respond to differently?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  },
+  {
+    "spread_id": "one-card-check-in",
+    "name": "One card check-in",
+    "positions": [
+      {
+        "index": 1,
+        "name": "Reflection"
+      }
+    ],
+    "reflection_question": "What does this image invite me to notice?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  },
+  {
+    "spread_id": "decision-reflection",
+    "name": "Decision reflection",
+    "positions": [
+      {
+        "index": 1,
+        "name": "Option A"
+      },
+      {
+        "index": 2,
+        "name": "Option B"
+      },
+      {
+        "index": 3,
+        "name": "Shared need"
+      },
+      {
+        "index": 4,
+        "name": "Information to gather"
+      }
+    ],
+    "reflection_question": "What facts do I need before choosing?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  },
+  {
+    "spread_id": "relationship-reflection",
+    "name": "Relationship reflection",
+    "positions": [
+      {
+        "index": 1,
+        "name": "My needs"
+      },
+      {
+        "index": 2,
+        "name": "Communication pattern"
+      },
+      {
+        "index": 3,
+        "name": "Boundary"
+      },
+      {
+        "index": 4,
+        "name": "Constructive action"
+      }
+    ],
+    "reflection_question": "What can I communicate directly rather than assume?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  },
+  {
+    "spread_id": "career-reflection",
+    "name": "Career reflection",
+    "positions": [
+      {
+        "index": 1,
+        "name": "Current strengths"
+      },
+      {
+        "index": 2,
+        "name": "Challenge"
+      },
+      {
+        "index": 3,
+        "name": "Learning opportunity"
+      },
+      {
+        "index": 4,
+        "name": "Next action"
+      }
+    ],
+    "reflection_question": "What practical action can I test this week?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  },
+  {
+    "spread_id": "creative-project",
+    "name": "Creative project",
+    "positions": [
+      {
+        "index": 1,
+        "name": "Inspiration"
+      },
+      {
+        "index": 2,
+        "name": "Constraint"
+      },
+      {
+        "index": 3,
+        "name": "Experiment"
+      }
+    ],
+    "reflection_question": "What small creative experiment can I try?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  },
+  {
+    "spread_id": "weekly-review",
+    "name": "Weekly review",
+    "positions": [
+      {
+        "index": 1,
+        "name": "What worked"
+      },
+      {
+        "index": 2,
+        "name": "What drained me"
+      },
+      {
+        "index": 3,
+        "name": "What I learned"
+      },
+      {
+        "index": 4,
+        "name": "Next week focus"
+      }
+    ],
+    "reflection_question": "Which lesson is supported by my actual experience?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  },
+  {
+    "spread_id": "self-compassion",
+    "name": "Self compassion",
+    "positions": [
+      {
+        "index": 1,
+        "name": "Feeling"
+      },
+      {
+        "index": 2,
+        "name": "Need"
+      },
+      {
+        "index": 3,
+        "name": "Support"
+      }
+    ],
+    "reflection_question": "How would I speak to a friend in this situation?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  },
+  {
+    "spread_id": "goal-planning",
+    "name": "Goal planning",
+    "positions": [
+      {
+        "index": 1,
+        "name": "Goal"
+      },
+      {
+        "index": 2,
+        "name": "Resource"
+      },
+      {
+        "index": 3,
+        "name": "Obstacle"
+      },
+      {
+        "index": 4,
+        "name": "First step"
+      },
+      {
+        "index": 5,
+        "name": "Review point"
+      }
+    ],
+    "reflection_question": "How will I check whether my next step helped?",
+    "source_url": "https://tarotai.art/tarot-journal",
+    "version": "1.0.0"
+  }
+]

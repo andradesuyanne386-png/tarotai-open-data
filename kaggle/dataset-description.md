@@ -1,8 +1,6 @@
 ## About this dataset
 Published by [TarotAI](https://tarotai.art/): 78 English tarot card keyword summaries and 10 reflection spreads for lookup tools, educational prototypes and journaling.
 
-[Visit the TarotAI website](https://tarotai.art/).
-
 ## Contents
 - cards.csv: 78 rows; keyword arrays are JSON encoded.
 - cards.json: identical structured card records, preserving arrays.

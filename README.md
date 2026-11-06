@@ -2,8 +2,6 @@
 
 78 English tarot card keyword summaries and 10 reflection spreads, maintained by [TarotAI](https://tarotai.art/).
 
-[Visit the TarotAI website](https://tarotai.art/)
-
 ## Dataset mirrors
 
 [Browse the dataset on Hugging Face](https://huggingface.co/datasets/HenryZheng99/tarotai-open-tarot-kit).

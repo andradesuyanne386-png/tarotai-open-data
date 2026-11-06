@@ -17,8 +17,6 @@ configs:
 
 78 English tarot card keyword summaries and 10 reflection spreads, maintained by [TarotAI](https://tarotai.art/).
 
-[Visit the TarotAI website](https://tarotai.art/)
-
 ## Files
 
 - `data/cards.json`: canonical card records (22 Major / 56 Minor Arcana).
